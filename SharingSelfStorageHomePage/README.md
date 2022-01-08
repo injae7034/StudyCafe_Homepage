@@ -1,1 +1,1 @@
-# StudyCafe_Homepage
+# 셰어링셀프스토리지 홈페이지입니다.
